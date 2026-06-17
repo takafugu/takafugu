@@ -1,6 +1,6 @@
 # Tatyana Kazakova
 
-**Staff QA Engineer · AI evals & agent testing · Founder, [Qazaco](https://www.qazaco.com/)**
+AI Transformation · AI evals & agent testing · Coaching QAE
 
 ---
 
@@ -10,7 +10,4 @@ I care about quality as a deliberate choice, not a checkbox — and about buildi
 
 ---
 
-**Currently working with:** Claude Code · Braintrust · Promptfoo · Playwright · Cursor · Linear
-
-**Find me:**
-[qazaco.com](https://www.qazaco.com) · [LinkedIn](https://www.linkedin.com/in/tatyana-kazakova/) · Los Angeles, CA
+**Currently working with:** Braintrust · LangWatch · ElevenLabs · Promptfoo · Playwright  ** 
